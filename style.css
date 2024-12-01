@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(174, 219, 219);
+}
+h1{
+    text-align: center;
+    color: red;
+}   
+.box{
+    
+    border: 5px solid black;
+    border-radius: 10px;
+    width: 280px;
+    height: 500px;
+    text-align: center;
+    margin: 20px;
+    display: inline-block; 
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px dashed;
+
+}
+p{
+font-size: 19px;
+text-align: justify;
+padding: 10px;
+}
+
+h3{
+    font-size: 25px;
+    color: blue;
+}
+
+.box1{
+    background-color: aqua;
+}
+
+.box2{
+    background-color: brown;
+}
+.box3{
+    background-color: blueviolet;
+}
